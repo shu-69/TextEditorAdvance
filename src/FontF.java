@@ -325,7 +325,7 @@ public class FontF extends javax.swing.JFrame {
             }
 
         } catch (Exception e) {
-            JOptionPane.showCMessageDialog(rootPane, "Invaid size");
+            JOptionPane.showMessageDialog(rootPane, "Invaid size");
         }
     }//GEN-LAST:event_sizelistMouseClicked
 
